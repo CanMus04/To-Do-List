@@ -4,11 +4,11 @@ This is a simple command-line to-do list application built in Python. It allows 
 
 ## About the Project
 
-At first, I thought creating a basic to-do list would be a quick and easy project, but it turned out to be a bit more challenging than expected. One of the most difficult parts was ensuring that the tasks were handled properly—whether it was updating their completion status, ensuring valid input for task deletion, or making sure the task list was displayed in an organized and user-friendly way. 
+Honestly, this project turned out to be much harder than I anticipated. Although the concept of a to-do list seemed simple at first, it quickly became more complicated as I tried to implement the various features, especially the task management part (adding, deleting, completing tasks). 
 
-There were several improvements I made throughout the process, like ensuring that invalid user inputs (such as entering a non-numeric value when selecting a task) were handled gracefully. I also had to manage the internal structure of the tasks carefully, ensuring that each task had a title and a completion status.
+To be completely transparent, I ended up following a tutorial and largely copying the code. I didn’t feel like I learned much from this project itself, as I mostly focused on adapting the code from the tutorial to fit my needs. 
 
-I learned a lot about list manipulation, error handling, and structuring a simple command-line application. It was a great learning experience, and I'm happy with the result!
+The most challenging part was ensuring everything worked smoothly when interacting with the user. I also struggled a bit with error handling, like when users entered invalid inputs. But overall, I wasn’t too involved in coming up with the logic myself—this was more about getting things to work by following instructions.
 
 ### Features
 - Add new tasks with a title.
@@ -36,6 +36,4 @@ You can try a live demo of this project here: ////
 1. Clone this repository.
 2. Run the Python script using your terminal/command prompt:
    ```bash
-   python simple_todo_list.py
-# To-Do-List
-This is a  command-line to-do list application built in Python. It allows users to add tasks, mark them as completed, delete them, and view all the tasks in their list.
+   python to-do_list.py
