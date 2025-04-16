@@ -24,16 +24,5 @@ The most challenging part was ensuring everything worked smoothly when interacti
 3. When a task is deleted, it is removed from the list.
 4. If the user enters an invalid input, the program will display an error message and prompt the user again.
 
-## Live Demo
-
-You can try a live demo of this project here: ////
-
 ## Technologies Used
 - Python (for the application logic)
-
-## Instructions to Run
-
-1. Clone this repository.
-2. Run the Python script using your terminal/command prompt:
-   ```bash
-   python to-do_list.py
