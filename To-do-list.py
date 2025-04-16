@@ -1,6 +1,6 @@
 # To-Do List
 
-# Empty list for tasks
+
 tasks = []
 
 def show_tasks():
@@ -34,7 +34,7 @@ def delete_task(index):
     else:
         print("Invalid task number.")
 
-# Main program
+
 print("Welcome to your To-Do List!")
 
 while True:
